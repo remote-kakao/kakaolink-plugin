@@ -27,10 +27,10 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@remote-kakao/core@^1.0.5":
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/@remote-kakao/core/-/core-1.0.5.tgz#1dfe7ea26ee31c8046737d1903249a1c04493cef"
-  integrity sha512-OH9xdpp6ANLKOc9KM1EQhPLX92kRZ4xP6dg56t6tNRQdfmtUvN2D200i9McgU2mtr5r2AcfgKuUyjMx+/ze7uQ==
+"@remote-kakao/core@^1.0.6":
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/@remote-kakao/core/-/core-1.0.6.tgz#59c2faea5e8065e4fa8ad46e6dfee8d6076eb473"
+  integrity sha512-c10Qy1GarcWxbpEueNu7A8OLK5BVZJYmvTDgoSGAxC9w8Qsv+CI9jAu+UUi0KFXxivQVEezZa9JYfl8TJcjsyg==
   dependencies:
     eventemitter3 "^4.0.7"
     node-kakaolink "^1.1.7"

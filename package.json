@@ -1,6 +1,6 @@
 {
   "name": "@remote-kakao/kakaolink-plugin",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "main": "dist/index.js",
   "scripts": {
     "dev": "tsc --watch",
@@ -13,7 +13,8 @@
     "typescript": "^4.7.4"
   },
   "dependencies": {
-    "@remote-kakao/core": "^1.0.5",
+    "@remote-kakao/core": "^1.0.6",
     "node-kakaolink": "^1.1.7"
-  }
+  },
+  "optionalDependencies": {}
 }
