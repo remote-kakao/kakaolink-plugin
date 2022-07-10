@@ -15,6 +15,5 @@
   "dependencies": {
     "@remote-kakao/core": "^1.0.7",
     "node-kakaolink": "^1.1.7"
-  },
-  "optionalDependencies": {}
+  }
 }

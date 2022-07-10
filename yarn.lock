@@ -27,7 +27,7 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@remote-kakao/core@^1.0.8":
+"@remote-kakao/core@^1.0.7":
   version "1.0.7"
   resolved "https://registry.yarnpkg.com/@remote-kakao/core/-/core-1.0.7.tgz#de4afeddff617847d383dd53b618aa0c2a13e141"
   integrity sha512-opEGZkujZfhA8SeYf0purx4/7VNuGcWN9XqzmZkG6qOYB29MDPvp7WbS9CMRp1qwgcG6FDfEFTiBXCXZ1WROcA==
